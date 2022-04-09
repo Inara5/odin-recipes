@@ -1,0 +1,1 @@
+Hello ! This is a website showing recipes. This will combine the basic html knowledge that I have learned so far. We'll make it look better with css later on.
